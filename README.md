@@ -8,7 +8,7 @@ Currently exploring LOD techniques optimization with ML and system architecture 
 
 Languages: C#, C++, Javascript, Dart  
 Tools & Frameworks: .NET, Flutter, React, Unity, SDL  
-Databases: SQL, Postgres, MongoDB, Firebase, RavenDB
+Databases: SQL, PostgreSQL, MongoDB, Firebase, RavenDB
 
 ## Contact
 
