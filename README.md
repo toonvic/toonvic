@@ -1,27 +1,17 @@
-# 👋 Hi, I'm Victor do Amaral
+# Victor do Amaral
 
-🎓 Computer Science student  
-🎮 Passionate about computer graphics, games and AI
-🧠 Always learning about game optimization and visual computing
+Computer Science student passionate about games, computer graphics and AI.
 
----
+Currently exploring LOD techniques optimization with ML and system architecture using .NET and C#.
 
-## 🔧 Technologies I use
+## Technologies
 
-- **Languages:** C#, C++, Javascript, Dart
-- **Tools & Frameworks:** Unity, .NET, React, Flutter 
-- **Databases:** SQL, MongoDB, RavenDB, Postgres, Firebase
+Languages: C#, C++, Javascript, Dart  
+Tools & Frameworks: .NET, Flutter, React, Unity, SDL  
+Databases: SQL, Postgres, MongoDB, Firebase, RavenDB
 
----
+## Contact
 
-## 🌱 Currently exploring
-
-- Procedural animation and LOD optimization using Machine Learning  
-- Systems design with .NET and C#
-
----
-
-## 📫 Contact
-
-- 📧 victor.ghibli@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/victordoamaral/)
+victor.ghibli@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/victordoamaral)  
+[maplesoft.dev](https://maplesoft.dev)
